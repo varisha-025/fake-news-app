@@ -1,11 +1,11 @@
-﻿anyio==3.3.0
-appdirs==1.4.4
-argon2-cffi==20.1.0
-asgiref==3.4.1
+anyio==3.3.0
+appdirs==1.4.4       
+argon2-cffi==20.1.0  
+asgiref==3.4.1       
 async-generator==1.10
-attrs==21.2.0
+attrs==21.2.0        
 Babel==2.9.1
-backcall==0.2.0
+backcall==0.2.0      
 beautifulsoup4==4.9.3
 black==21.6b0
 bleach==3.3.1
@@ -17,6 +17,7 @@ chardet==4.0.0
 charset-normalizer==2.0.3
 click==8.0.1
 colorama==0.4.4
+Corpora==1.0
 courlan==0.4.2
 cssselect==1.1.0
 cycler==0.10.0
@@ -82,7 +83,8 @@ pyparsing==2.4.7
 pyrsistent==0.18.0
 python-dateutil==2.8.2
 pytz==2021.1
-psycopg2-binary==2.9.1
+pywin32==301
+pywinpty==1.1.3
 PyYAML==5.4.1
 pyzmq==22.1.0
 qtconsole==5.1.1
