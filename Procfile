@@ -1,1 +1,1 @@
-web: gunicorn fake-n-app.wsgi --log-file -
+web: gunicorn myApp.wsgi --log-file -
