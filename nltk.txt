@@ -1,0 +1,9 @@
+wordnet
+pros_cons
+reuters
+rslp
+porter_test
+vader_lexicon
+treebank
+dependency_treebank
+stopwords
