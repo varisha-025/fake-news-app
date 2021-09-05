@@ -1,5 +1,4 @@
 wordnet
 pros_cons
 reuters
-porter_test
 stopwords
