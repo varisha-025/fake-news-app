@@ -4,7 +4,7 @@
 
 [Demo Link](https://newsdetectionapp.herokuapp.com/)
 
-This website is an ML model created using Sklearn and NLP, integrated with Django, hosted on Heroku. It predicts whether the given news headline or news URL is fake or not. The dataset we used is the one available in kaggle with some Asian news web scraped from the internet using trafilatura library.
+This website is an ML model created using Sklearn and NLP, integrated with Django, hosted on Heroku. It predicts whether the given news headline or news URL is fake or not. The dataset we used is the one available in kaggle with some Asian news web scraped from the internet using the trafilatura library.
 
 [Final dataset link](https://drive.google.com/file/d/1ifXihj-jnWlZkVx-ZnLF8L2ETLaqSjyZ/view?usp=sharing)
 
@@ -16,7 +16,7 @@ This website is an ML model created using Sklearn and NLP, integrated with Djang
 
 ## Key Features
 
-- It can predict using either of the two things:
+- It can predict whether a news is fake or not using either of the two things:
   - News headline
   - News URL
 - It enlists news headlines with a short description fetched from the NEWS API.
